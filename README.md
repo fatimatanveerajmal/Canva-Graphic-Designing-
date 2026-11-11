@@ -95,15 +95,3 @@ I'm open to freelance projects, collaborations, and new opportunities.
 ⭐ If you like my work, feel free to explore my repositories!
 
 </div>
-
-
-<iframe
-    src="https://www.google.com/maps?q=Lahore,Pakistan&output=embed"
-    width="100%"
-    height="450"
-    style="border:0;"
-    allowfullscreen
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade">
-</iframe>
-
